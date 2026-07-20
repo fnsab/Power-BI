@@ -1,4 +1,4 @@
-<img width="1544" height="875" alt="Lab3" src="https://github.com/user-attachments/assets/41108b46-2761-448a-b11b-18738a83adb9" /># 📊 Portfólio de Power BI
+# 📊 Portfólio de Power BI
 
 Olá! Sou **Felipe Sant'Anna**, profissional com experiência nas áreas de Finanças, Controladoria e Análise de Dados. Este repositório reúne projetos desenvolvidos em **Power BI** com foco na criação de dashboards interativos, modelagem de dados, desenvolvimento de indicadores (KPIs) e geração de insights para apoio à tomada de decisão.
 
