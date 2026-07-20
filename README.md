@@ -1,8 +1,28 @@
 # 📊 Portfólio de Power BI
 
-Olá! Sou **Felipe Sant'Anna**, profissional com experiência nas áreas de Finanças, Controladoria e Análise de Dados. Este repositório reúne projetos desenvolvidos em **Power BI** com foco na criação de dashboards interativos, modelagem de dados, desenvolvimento de indicadores (KPIs) e geração de insights para apoio à tomada de decisão.
+<p align="center">
 
-Os projetos abordam diferentes áreas de negócio, como Vendas, Marketing, Recursos Humanos, Logística, Finanças e Mercado Financeiro, demonstrando a aplicação prática de Business Intelligence em cenários reais.
+# Business Intelligence • Data Analytics • Dashboards • Power BI
+
+</p>
+
+<p align="center">
+
+Transformando dados em informações para apoiar decisões estratégicas.
+
+</p>
+
+---
+
+## 👋 Sobre mim
+
+Olá! Sou **Felipe Sant'Anna**, profissional com experiência nas áreas de **Finanças, Controladoria e Análise de Dados**.
+
+Este repositório reúne projetos desenvolvidos em **Power BI**, demonstrando conhecimentos em Business Intelligence, modelagem de dados, desenvolvimento de indicadores (KPIs), ETL com Power Query e criação de dashboards executivos.
+
+Os dashboards abrangem diferentes áreas de negócio, como **Vendas, Marketing, Recursos Humanos, Logística, Finanças e Mercado Financeiro**, simulando cenários reais de análise de dados.
+
+---
 
 <p align="center">
 
@@ -14,32 +34,45 @@ Os projetos abordam diferentes áreas de negócio, como Vendas, Marketing, Recur
 
 </p>
 
-
 ---
 
-## 🛠️ Tecnologias e Competências
+# 🛠️ Tecnologias
 
 - Power BI
 - DAX
 - Power Query
 - Modelagem de Dados
 - ETL
-- Business Intelligence
-- Visualização de Dados
-- Storytelling com Dados
 - Excel
+- Business Intelligence
+- Storytelling com Dados
+- Visualização de Dados
 
 ---
 
-# 📊 Projetos
+# 📂 Projetos
 
-## 📈 Laboratório 1 – Dashboard Analítico de Vendas Globais
+| Projeto | Área | Status |
+|----------|------|:------:|
+| 📈 Laboratório 1 | Vendas Globais | ✅ |
+| 💰 Laboratório 2 | Financeiro | ✅ |
+| 📑 Laboratório 3 | Demonstração do Resultado do Exercício (DRE) | ✅ |
+| 📢 Projeto 1 | Marketing | ✅ |
+| 📊 Projeto 2 | Comercial | ✅ |
+| 👥 Projeto 3 | Recursos Humanos | ✅ |
+| 🚚 Projeto 4 | Logística | ✅ |
+| 💵 Projeto 5 | Finanças | ✅ |
+| 📈 Projeto 6 | Mercado de Ações | ✅ |
 
-**Objetivo**
+---
 
-Monitorar a performance comercial internacional, analisando vendas, descontos e distribuição geográfica.
+# 📊 Laboratório 1 – Dashboard Analítico de Vendas Globais
 
-**Principais indicadores**
+### 🎯 Objetivo
+
+Monitorar a performance comercial internacional por meio da análise de vendas, descontos e distribuição geográfica.
+
+### 📌 Principais indicadores
 
 - Total de Vendas
 - Média de Vendas por País
@@ -47,17 +80,21 @@ Monitorar a performance comercial internacional, analisando vendas, descontos e 
 - Pedidos por País e Prioridade
 - Total de Vendas por Categoria
 
-<img width="1546" height="871" alt="Lab1" src="https://github.com/user-attachments/assets/e24ffc72-a5e6-48c8-aa19-712d1b61286d" />
+<p align="center">
+
+<img width="100%" src="https://github.com/user-attachments/assets/e24ffc72-a5e6-48c8-aa19-712d1b61286d">
+
+</p>
 
 ---
 
-## 💰 Laboratório 2 – Dashboard de Vendas, Custos, Margem de Lucro e KPI
+# 💰 Laboratório 2 – Dashboard de Vendas, Custos, Margem de Lucro e KPI
 
-**Objetivo**
+### 🎯 Objetivo
 
 Analisar a relação entre vendas, custos e lucratividade para apoiar decisões estratégicas.
 
-**Principais indicadores**
+### 📌 Principais indicadores
 
 - Média de Vendas
 - Média de Lucro por Categoria
@@ -65,146 +102,214 @@ Analisar a relação entre vendas, custos e lucratividade para apoiar decisões 
 - Custo Médio por Mercado
 - Valor por Modo de Envio
 
-<img width="1551" height="870" alt="Lab2" src="https://github.com/user-attachments/assets/493e2958-9231-45e5-a809-7cacf1ca5c98" />
+<p align="center">
+
+<img width="100%" src="https://github.com/user-attachments/assets/493e2958-9231-45e5-a809-7cacf1ca5c98">
+
+</p>
 
 ---
 
-## 📑 Laboratório 3 – Demonstração de Resultado do Exercício (DRE)
+# 📑 Laboratório 3 – Demonstração de Resultado do Exercício (DRE)
 
-**Objetivo**
+### 🎯 Objetivo
 
-Construção de uma visão financeira consolidada por meio do balanço patrimonial e da Demonstração do Resultado do Exercício (DRE).
+Construção de uma visão financeira consolidada através da Demonstração do Resultado do Exercício (DRE).
 
-**Principais indicadores**
+### 📌 Principais indicadores
 
 - Evolução do Balanço Patrimonial
 - Ativo e Passivo
 - Patrimônio Líquido
 - Lucros Acumulados
-- Empréstimos de Curto e Longo Prazo
+- Empréstimos
 
-<img width="1544" height="875" alt="Lab3" src="https://github.com/user-attachments/assets/9e0ef2f5-c25b-4c6b-b232-e0e2273f5de3" />
+<p align="center">
+
+<img width="100%" src="https://github.com/user-attachments/assets/9e0ef2f5-c25b-4c6b-b232-e0e2273f5de3">
+
+</p>
 
 ---
 
-## 📢 Projeto 1 – Análise de Campanhas de Marketing
+# 📢 Projeto 1 – Análise de Campanhas de Marketing
 
-**Objetivo**
+### 🎯 Objetivo
 
-Avaliar o perfil dos clientes e o desempenho das campanhas de marketing para apoiar estratégias de aquisição e retenção.
+Avaliar o comportamento dos clientes e o desempenho das campanhas para apoiar decisões de marketing.
 
-**Principais indicadores**
+### 📌 Principais indicadores
 
-- Salário Médio Anual
-- Compras em Lojas, Web e Catálogo
+- Salário Médio
+- Compras em Loja, Web e Catálogo
 - Compras com Desconto
-- Gastos por Perfil Demográfico
+- Perfil Demográfico
 - Performance das Campanhas
 
-<img width="1779" height="917" alt="Projeto1 1" src="https://github.com/user-attachments/assets/1cd79062-77da-439f-a9f1-5e79e4946944" />
-<img width="1815" height="915" alt="Projeto1 2" src="https://github.com/user-attachments/assets/1c52c214-fafc-4d21-a0c7-7b7659833c71" />
-<img width="1778" height="908" alt="Projeto1 3" src="https://github.com/user-attachments/assets/a05bcc5f-db65-40cd-abd2-3aa5698bffa2" />
-<img width="1777" height="905" alt="Projeto1 4" src="https://github.com/user-attachments/assets/9d11fcde-633a-4730-8fc7-e34040fc9093" />
+<p align="center">
+
+<img width="100%" src="https://github.com/user-attachments/assets/1cd79062-77da-439f-a9f1-5e79e4946944">
+
+<img width="100%" src="https://github.com/user-attachments/assets/1c52c214-fafc-4d21-a0c7-7b7659833c71">
+
+<img width="100%" src="https://github.com/user-attachments/assets/a05bcc5f-db65-40cd-abd2-3aa5698bffa2">
+
+<img width="100%" src="https://github.com/user-attachments/assets/9d11fcde-633a-4730-8fc7-e34040fc9093">
+
+</p>
 
 ---
 
-## 📊 Projeto 2 – Dashboard Comercial | Performance de Vendas
+# 📊 Projeto 2 – Dashboard Comercial
 
-**Objetivo**
+### 🎯 Objetivo
 
-Analisar o desempenho comercial por fabricantes, segmentos, categorias e fatores que influenciam as vendas.
+Analisar o desempenho comercial por fabricantes, segmentos e categorias.
 
-**Principais indicadores**
+### 📌 Principais indicadores
 
-- Total de Vendas por Fabricante
-- Vendas por Segmento
-- Vendas por Categoria
-- Vendas por Loja
-- Principais Influenciadores de Vendas (AI Insights)
+- Total de Vendas
+- Fabricantes
+- Segmentos
+- Categorias
+- AI Insights
 
-<img width="1634" height="914" alt="Projeto2 1" src="https://github.com/user-attachments/assets/abf6ea80-2554-461f-8e18-a7a6b1c35ca6" />
-<img width="1633" height="902" alt="Projeto2 2" src="https://github.com/user-attachments/assets/62eafae1-6dfc-4262-8e5d-9b88901aa93f" />
-<img width="1636" height="913" alt="Projeto2 3" src="https://github.com/user-attachments/assets/61ee11c7-2a33-4130-9502-5b9754d33665" />
-<img width="1631" height="913" alt="Projeto2 4" src="https://github.com/user-attachments/assets/6b213332-c940-4ccb-aa2c-9ff0a3b131d0" />
-<img width="1630" height="908" alt="Projeto2 5" src="https://github.com/user-attachments/assets/e4e72d93-eb6e-4bd9-be4a-c45d90e3ba0e" />
+<p align="center">
+
+<img width="100%" src="https://github.com/user-attachments/assets/abf6ea80-2554-461f-8e18-a7a6b1c35ca6">
+
+<img width="100%" src="https://github.com/user-attachments/assets/62eafae1-6dfc-4262-8e5d-9b88901aa93f">
+
+<img width="100%" src="https://github.com/user-attachments/assets/61ee11c7-2a33-4130-9502-5b9754d33665">
+
+<img width="100%" src="https://github.com/user-attachments/assets/6b213332-c940-4ccb-aa2c-9ff0a3b131d0">
+
+<img width="100%" src="https://github.com/user-attachments/assets/e4e72d93-eb6e-4bd9-be4a-c45d90e3ba0e">
+
+</p>
 
 ---
 
-## 👥 Projeto 3 – Análise de Dados de Recursos Humanos
+# 👥 Projeto 3 – Recursos Humanos
 
-**Objetivo**
+### 🎯 Objetivo
 
-Monitorar indicadores de gestão de pessoas para apoiar decisões relacionadas ao capital humano.
+Monitorar indicadores relacionados à gestão de pessoas.
 
-**Principais indicadores**
+### 📌 Principais indicadores
 
-- Total de Funcionários
-- Experiência Média
+- Funcionários
 - Salário Médio
-- Distribuição por Gênero
-- Nível de Envolvimento
-- Disponibilidade para Hora Extra
+- Experiência
+- Gênero
+- Envolvimento
+- Hora Extra
 
-<img width="1549" height="875" alt="Projeto3" src="https://github.com/user-attachments/assets/6725dc7b-7a22-45e6-8ea6-fa294f7ebfa1" />
+<p align="center">
 
----
+<img width="100%" src="https://github.com/user-attachments/assets/6725dc7b-7a22-45e6-8ea6-fa294f7ebfa1">
 
-## 🚚 Projeto 4 – Análise de Dados de Logística
-
-**Objetivo**
-
-Acompanhar indicadores operacionais relacionados ao desempenho das entregas.
-
-**Principais indicadores**
-
-- Total de Entregas
-- Entregas no Prazo
-- Percentual por Equipe
-- Rating dos Vendedores
-- Status das Entregas
-
-<img width="1539" height="866" alt="Projeto4" src="https://github.com/user-attachments/assets/47037378-02ac-47f8-933b-a5da8cbe9c31" />
+</p>
 
 ---
 
-## 💵 Projeto 5 – Análise de Dados Financeiros
+# 🚚 Projeto 4 – Logística
 
-**Objetivo**
+### 🎯 Objetivo
 
-Fornecer uma visão consolidada das receitas, despesas e rentabilidade da empresa.
+Monitorar indicadores operacionais relacionados às entregas.
 
-**Principais indicadores**
+### 📌 Principais indicadores
 
-- Total de Receitas
-- Total de Despesas
-- Margem de Lucro
-- Receitas por Componente
-- Evolução das Despesas
+- Entregas
+- Prazo
+- Rating
+- Equipes
+- Status
 
-<img width="1529" height="865" alt="Projeto5" src="https://github.com/user-attachments/assets/052c9ceb-98c7-49ef-b933-d284ecd467d5" />
+<p align="center">
+
+<img width="100%" src="https://github.com/user-attachments/assets/47037378-02ac-47f8-933b-a5da8cbe9c31">
+
+</p>
 
 ---
 
-## 📈 Projeto 6 – Análise do Mercado de Ações
+# 💵 Projeto 5 – Finanças
 
-**Objetivo**
+### 🎯 Objetivo
 
-Analisar indicadores de desempenho de ativos financeiros e tendências do mercado.
+Apresentar uma visão consolidada das receitas, despesas e lucratividade.
 
-**Principais indicadores**
+### 📌 Principais indicadores
 
-- Volume Total Negociado
-- Variação Mensal da Média de Fechamento (MoM)
-- Preço Médio (Open, High e Low)
-- Volume Mensal de Transações
+- Receitas
+- Despesas
+- Margem
+- Componentes
+- Evolução Financeira
+
+<p align="center">
+
+<img width="100%" src="https://github.com/user-attachments/assets/052c9ceb-98c7-49ef-b933-d284ecd467d5">
+
+</p>
+
+---
+
+# 📈 Projeto 6 – Mercado de Ações
+
+### 🎯 Objetivo
+
+Analisar tendências e indicadores do mercado financeiro.
+
+### 📌 Principais indicadores
+
+- Volume Negociado
+- Preço Médio
+- Variação Mensal
 - Narrativa Inteligente
 
-<img width="1550" height="871" alt="Projeto6" src="https://github.com/user-attachments/assets/7ba93f93-58cf-4dbc-b3d5-2b080241f22f" />
+<p align="center">
+
+<img width="100%" src="https://github.com/user-attachments/assets/7ba93f93-58cf-4dbc-b3d5-2b080241f22f">
+
+</p>
 
 ---
 
-## 📬 Contato
+# 🎯 Competências Demonstradas
 
-**LinkedIn:** https://linkedin.com/in/felipe-sant
+- ✅ Desenvolvimento de Dashboards Executivos
+- ✅ Construção de KPIs
+- ✅ Power Query (ETL)
+- ✅ DAX
+- ✅ Modelagem de Dados
+- ✅ Business Intelligence
+- ✅ Storytelling com Dados
+- ✅ Visualização de Dados
+- ✅ Análise Exploratória de Dados
 
-**E-mail:** fnsab@hotmail.com
+---
+
+# 📬 Contato
+
+<p align="center">
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/felipe-sant
+
+📧 **E-mail**
+
+**fnsab@hotmail.com**
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Obrigado por visitar meu portfólio!
+
+</p>
