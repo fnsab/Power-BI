@@ -36,6 +36,9 @@ Monitorar a performance comercial internacional, analisando vendas, descontos e 
 - Pedidos por País e Prioridade
 - Total de Vendas por Categoria
 
+- <img width="1546" height="871" alt="Lab1" src="https://github.com/user-attachments/assets/e24ffc72-a5e6-48c8-aa19-712d1b61286d" />
+
+
 ---
 
 ## 💰 Laboratório 2 – Dashboard de Vendas, Custos, Margem de Lucro e KPI
