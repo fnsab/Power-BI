@@ -4,6 +4,17 @@ Olá! Sou **Felipe Sant'Anna**, profissional com experiência nas áreas de Fina
 
 Os projetos abordam diferentes áreas de negócio, como Vendas, Marketing, Recursos Humanos, Logística, Finanças e Mercado Financeiro, demonstrando a aplicação prática de Business Intelligence em cenários reais.
 
+<p align="center">
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-FFB000?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-005A9C?style=for-the-badge)
+
+</p>
+
+
 ---
 
 ## 🛠️ Tecnologias e Competências
