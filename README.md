@@ -118,11 +118,9 @@ Construção de uma visão financeira consolidada através da Demonstração do 
 
 ### 📌 Principais indicadores
 
-- Evolução do Balanço Patrimonial
+- Evolução da Demonstração do Resultado de Exercício (DRE)
 - Ativo e Passivo
 - Patrimônio Líquido
-- Lucros Acumulados
-- Empréstimos
 
 <p align="center">
 
