@@ -110,7 +110,7 @@ Analisar a relação entre vendas, custos e lucratividade para apoiar decisões 
 
 ---
 
-# 📑 Laboratório 3 – Demonstração de Resultado do Exercício (DRE)
+# 📑 Laboratório 3 – Análise Contábil (Balanço Patrimonial)
 
 ### 🎯 Objetivo
 
@@ -118,13 +118,13 @@ Construção de uma visão financeira consolidada através da Demonstração do 
 
 ### 📌 Principais indicadores
 
-- Evolução da Demonstração do Resultado de Exercício (DRE)
+- Evolução do Balanço Patrimonial
 - Ativo e Passivo
 - Patrimônio Líquido
 
 <p align="center">
 
-<img width="100%" src="https://github.com/user-attachments/assets/9e0ef2f5-c25b-4c6b-b232-e0e2273f5de3">
+<img width="1522" height="867" alt="image" src="https://github.com/user-attachments/assets/e75d01cd-8759-4a71-a08e-e591278a53e9" />
 
 </p>
 
