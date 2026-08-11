@@ -56,7 +56,7 @@ Os dashboards abrangem diferentes áreas de negócio, como **Vendas, Marketing, 
 |----------|------|:------:|
 | 📈 Laboratório 1 | Vendas Globais | ✅ |
 | 💰 Laboratório 2 | Financeiro | ✅ |
-| 📑 Laboratório 3 | Demonstração do Resultado do Exercício (DRE) | ✅ |
+| 📑 Laboratório 3 | Balanço Patrimonial | ✅ |
 | 📢 Projeto 1 | Marketing | ✅ |
 | 📊 Projeto 2 | Comercial | ✅ |
 | 👥 Projeto 3 | Recursos Humanos | ✅ |
@@ -114,7 +114,7 @@ Analisar a relação entre vendas, custos e lucratividade para apoiar decisões 
 
 ### 🎯 Objetivo
 
-Construção de uma visão financeira consolidada através da Demonstração do Resultado do Exercício (DRE).
+Construção de uma visão financeira consolidada através da Balanço Patrimonial.
 
 ### 📌 Principais indicadores
 
